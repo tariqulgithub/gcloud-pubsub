@@ -15,7 +15,7 @@ Dependency Setup
 ---------------
 
         <dependency>
-           <groupId>org.olmis</groupId>
+           <groupId>org.simpleton</groupId>
            <artifactId>gcloud-pubsub</artifactId>
            <version>1.0.0</version>
         </dependency>
