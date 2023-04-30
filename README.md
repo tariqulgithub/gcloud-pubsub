@@ -20,7 +20,7 @@ Dependency Setup
            <version>1.0.0</version>
         </dependency>
 
-Usages Example Code
+Usage Example Code
 ------------------
 
         String credentialString =  "";
